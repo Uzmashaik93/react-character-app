@@ -56,4 +56,5 @@ button:focus-visible {
 .box{
   border: 1px solid white;
   margin: 35px;
+  padding: 20px;
 }
